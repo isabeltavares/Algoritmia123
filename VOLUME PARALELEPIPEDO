@@ -1,0 +1,13 @@
+Algoritmo "volume paralelepipedo"
+
+ Var Largura, Comprimento, Altura, Volume:Real
+ 
+ 
+ 
+    Inicio
+    Escreva ("Calcular volume paralelepipedo")
+    Leia(Largura,Comprimento)
+
+    Volume <- Largura*Comprimento*Altura
+
+Fimalgoritmo
